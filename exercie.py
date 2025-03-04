@@ -33,8 +33,12 @@ class Circle(Shape):
     def __repr__(self):
         return "Circle"
     
-    def __add__(self,other):
-        return Circle()
+    def __add__(self, other):
+        if isinstance(other, Circle):
+            # Example: return a new Circle with the combined area (as a radius approximation)
+            combined_area = self.area() + other.area()
+            return Circle((combined_area / 3.14) ** 0.5)  # Back to radius based on area
+        return NotImplemented
 
 def overloadingAdd(a,b):
     if(type(a) != type(b)):
@@ -49,5 +53,7 @@ c2 = Circle(3)
 rect = Rectangle(10, 5)
 square = Square(4)
 circle = Circle(3)
+newC = c1 + c2
 print(square.area())
+print(newC.area())
 print(overloadingAdd(c1,c2))
