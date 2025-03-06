@@ -1,0 +1,168 @@
+5. Longest Palindromic Substring
+10. Regular Expression Matching
+32. Longest Valid Parentheses
+44. Wildcard Matching
+55. Jump Game
+91. Decode Ways
+132. Palindrome Partitioning II
+152. Maximum Product Subarray
+174. Dungeon Game
+233. Number of Digit One
+--------------------------------------------------
+354. Russian Doll Envelopes
+397. Integer Replacement
+418. Sentence Screen Fitting
+464. Can I Win
+466. Count The Repetitions
+488. Zuma Game
+--------------------------------------------------
+639. Decode Ways II
+656. Coin Path
+678. Valid Parenthesis String
+698. Partition to K Equal Sum Subsets
+741. Cherry Pickup
+805. Split Array With Same Average
+887. Super Egg Drop
+--------------------------------------------------
+907. Sum of Subarray Minimums
+913. Cat and Mouse
+--------------------------------------------------
+1191. K-Concatenation Maximum Sum
+1363. Largest Multiple of Three
+1477. Find Two Non-overlapping Sub-arrays Each With Target Sum
+1483. Kth Ancestor of a Tree Node
+1494. Parallel Courses II
+--------------------------------------------------
+1537. Get the Maximum Score
+1553. Minimum Number of Days to Eat N Oranges
+1594. Maximum Non Negative Product in a Matrix
+1654. Minimum Jumps to Reach Home
+1655. Distribute Repeating Integers
+1668. Maximum Repeating Substring
+1681. Minimum Incompatibility
+1687. Delivering Boxes from Storage to Ports
+1728. Cat and Mouse II
+1771. Maximize Palindrome Length From Subsequences
+--------------------------------------------------
+1786. Number of Restricted Paths From First to Last Node
+1787. Make the XOR of All Segments Equal to Zero
+1871. Jump Game VII
+1883. Minimum Skips to Arrive at Meeting On Time
+1928. Minimum Cost to Reach Destination in Time
+1976. Number of Ways to Arrive at Destination
+1977. Number of Ways to Separate Numbers
+1981. Minimize the Difference Between Target and Chosen Elements
+1986. Minimum Number of Work Sessions to Finish the Tasks
+1994. The Number of Good Subsets
+1997. First Day Where You Have Been in All the Rooms
+2019. The Score of Students Solving Math Expression
+2035. Partition Array Into Two Arrays to Minimize Sum Difference
+2036. Maximum Alternating Subarray Sum
+--------------------------------------------------
+2209. Minimum White Tiles After Covering With Carpets
+2267. Check if There Is a Valid Parentheses String Path
+2310. Sum of Numbers With Units Digit K
+2311. Longest Binary Subsequence Less Than or Equal to K
+2338. Count the Number of Ideal Arrays
+2355. Maximum Number of Books You Can Take
+2376. Count Special Integers
+2400. Number of Ways to Reach a Position After Exactly k Steps
+2407. Longest Increasing Subsequence II
+2420. Find All Good Indices
+2430. Maximum Deletions on a String
+--------------------------------------------------
+2478. Number of Beautiful Partitions
+2484. Count Palindromic Subsequences
+2518. Number of Great Partitions
+2538. Difference Between Maximum and Minimum Price Sum
+2552. Count Increasing Quadruplets
+2556. Disconnect Path in a Binary Matrix by at Most One Flip
+2572. Count the Number of Square-Free Subsets
+2573. Find the String with LCP
+2617. Minimum Number of Visited Cells in a Grid
+2681. Power of Heroes
+2708. Maximum Strength of a Group
+2713. Maximum Strictly Increasing Cells in a Matrix
+2719. Count of Integers
+2741. Special Permutations
+2746. Decremental String Concatenation
+2750. Ways to Split Array Into Good Subarrays
+2770. Maximum Number of Jumps to Reach the Last Index
+2771. Longest Non-decreasing Subarray From Two Arrays
+2786. Visit Array Positions to Maximize Score
+2787. Ways to Express an Integer as Sum of Powers
+2801. Count Stepping Numbers in Range
+2809. Minimum Time to Make Array Sum At Most x
+2811. Check if it is Possible to Split Array
+2827. Number of Beautiful Integers in the Range
+2830. Maximize the Profit as the Salesman
+2836. Maximize Value of Function in a Ball Passing Game
+--------------------------------------------------
+2851. String Transformation
+2867. Count Valid Paths in a Tree
+2876. Count Visited Nodes in a Directed Graph
+2892. Minimizing Array After Replacing Pairs With Their Product
+2896. Apply Operations to Make Two Strings Equal
+2901. Longest Unequal Adjacent Groups Subsequence II
+2902. Count of Sub-Multisets With Bounded Sum
+2911. Minimum Changes to Make K Semi-palindromes
+2915. Length of the Longest Subsequence That Sums to Target
+2916. Subarrays Distinct Element Sum of Squares II
+2919. Minimum Increment Operations to Make Array Beautiful
+2920. Maximum Points After Collecting Coins From All Nodes
+2926. Maximum Balanced Subsequence Sum
+2945. Find Maximum Non-decreasing Array Length
+2973. Find Number of Coins to Place in Tree Nodes
+2977. Minimum Cost to Convert String II
+2999. Count the Number of Powerful Integers
+3003. Maximize the Number of Partitions After Operations
+3007. Maximum Number That Sum of the Prices Is Less Than or Equal to K
+3040. Maximum Number of Operations With the Same Score II
+3041. Maximize Consecutive Elements in an Array After Modification
+3077. Maximum Strength of K Disjoint Subarrays
+3082. Find the Sum of the Power of All Subsequences
+3098. Find the Sum of Subsequence Powers
+3117. Minimum Sum of Values by Dividing Array
+3129. Find All Possible Stable Binary Arrays I
+3130. Find All Possible Stable Binary Arrays II
+3149. Find the Minimum Cost Array Permutation
+3154. Find Number of Ways to Reach the K-th Stair
+3165. Maximum Sum of Subsequence With Non-adjacent Elements
+--------------------------------------------------
+3176. Find the Maximum Length of a Good Subsequence I
+3177. Find the Maximum Length of a Good Subsequence II
+3180. Maximum Total Reward Using Operations I
+3181. Maximum Total Reward Using Operations II
+3186. Maximum Total Damage With Spell Casting
+3193. Count the Number of Inversions
+3196. Maximize Total Cost of Alternating Subarrays
+3201. Find the Maximum Length of Valid Subsequence I
+3202. Find the Maximum Length of Valid Subsequence II
+3213. Construct String with Minimum Cost
+3225. Maximum Score From Grid Operations
+3229. Minimum Operations to Make Array Equal to Target
+3241. Time Taken to Mark All Nodes
+3251. Find the Count of Monotonic Pairs II
+3256. Maximum Value Sum by Placing Three Rooks I
+3257. Maximum Value Sum by Placing Three Rooks II
+3260. Find the Largest Palindrome Divisible by K
+3276. Select Cells in Grid With Maximum Score
+3287. Find the Maximum Sequence Value of Array
+3291. Minimum Number of Valid Strings to Form Target I
+3292. Minimum Number of Valid Strings to Form Target II
+3299. Sum of Consecutive Subsequences
+3302. Find the Lexicographically Smallest Valid Sequence
+3316. Find Maximum Removals From Source String
+3317. Find the Number of Possible Ways for an Event
+3320. Count The Number of Winning Sequences
+3333. Find the Original Typed String II
+3335. Total Characters in String After Transformations I
+3336. Find the Number of Subsequences With Equal GCD
+3337. Total Characters in String After Transformations II
+3343. Count Number of Balanced Permutations
+3351. Sum of Good Subsequences
+3352. Count K-Reducible Numbers Less Than N
+3366. Minimum Array Sum
+3367. Maximize Sum of Weights after Edge Removals
+3376. Minimum Time to Break Locks I
+--------------------------------------------------
